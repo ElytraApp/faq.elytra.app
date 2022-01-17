@@ -11,7 +11,7 @@ repo:
 
 icon: /assets/images/icons/web/preview_300.png
 favicon: /assets/icons/favicon.png
-theme_color: "#f80"
+theme_color: "#fff"
 
 markdown: kramdown
 permalink: /:year/:title/
