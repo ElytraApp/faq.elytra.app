@@ -23,3 +23,5 @@ If you're a student currently enrolled in School, High-School or Graduate educat
 
 ### Footnotes 
 1. Pricing is sometimes adjusted based on regions or to account for taxation changes by Apple or me directly. 
+
+2. If you see continous errors when fetching information about subscriptions, purchasing or restoring: please check if you have a custom DNS blocker enabled on your device. Some of these prevent connections to the service Elytra now uses to manage subscriptions. You may have unblock `api.revenuecat.com` in your DNS blocker settings to get things to work. 
