@@ -43,7 +43,7 @@ exclude:
 - thanks.md
 
 jekyll-mentions:
-  base_url: https://dezinezync.micro.blog
+  base_url: https://twitter.com/ElytraApp
 
 plugins:
   - jekyll-mentions

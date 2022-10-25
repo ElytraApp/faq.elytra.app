@@ -1,26 +1,31 @@
 - id: about
   title: About Elytra
-  description: Why Elytra exists and how it is different.
+  description: Why Elytra exists and how it is different 
 
 - id: getting-started
   title: Getting Started
-  description: First steps you can take after you setup Elytra.
+  description: First steps you can take after you setup Elytra 
     
 - id: webapp
   title: Web App
-  description: Tips for using the Web App & UI Quirks.
+  description: Tips for using the Web App & UI Quirks 
 
 - id: ios
   title: iOS App
-  description: Tips for using the iOS App & UI Quirks.
+  description: Tips for using the iOS App & UI Quirks 
 
 - id: macos
   title: macOS App
-  description: Tips for using the macOS App & UI Quirks.
+  description: Tips for using the macOS App & UI Quirks 
   
 - id: universal
   title: Universal
-  description: Tips for using the iOS and macOS App & UI Quirks common across platforms.  
+  description: Tips for using the iOS and macOS App & UI Quirks common across platforms   
+  
+- id: smartfolders
+  title: Smart Folders
+  description: Tips for using Smart Folders on iOS and macOS
+
 
 # - id: blogs
 #   title: Blogs & Publishers
