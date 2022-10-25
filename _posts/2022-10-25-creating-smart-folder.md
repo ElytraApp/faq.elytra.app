@@ -7,7 +7,7 @@ categories: smartfolders
 
 ### Smart Folders
 
-Please follow the guide at []() on creating a new smart folder. 
+Please follow the guide at [https://faq.elytra.app/2022/smart-folders/](https://faq.elytra.app/2022/smart-folders/) on creating a new smart folder. 
 
 ### Title Rules
 
